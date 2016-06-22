@@ -1,5 +1,5 @@
 import unittest
-from mtm_selenium_client.web_user import WebUser
+from web_user import WebUser
 
 class TestClass(unittest.TestCase):
 
